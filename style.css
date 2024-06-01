@@ -1,4 +1,4 @@
-@media scream and(max-width: 569px) {
+@media scream and (max-width: 569px) {
   body {
     background: #bdc3c7;  /* fallback for old browsers */
     background: -webkit-linear-gradient(to right, #2c3e50, #bdc3c7);  /* Chrome 10-25, Safari 5.1-6 */
@@ -8,7 +8,7 @@
 
 }
 
-  @media scream and(min-width: 570px) {
+  @media scream and (min-width: 570px) {
     body {
       background-color: #13171F;
       font-size: 15px;
